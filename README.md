@@ -1,6 +1,6 @@
-# Welcome to My GitHub Profile
-
-## Ahmed Mashhour - Cybersecurity Engineer
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Mashhour;+Communication+Engineer;+CyberSecurity+Engineer;" />
+</h1>
 
 ## About Me
 I am a highly motivated and detail-oriented cybersecurity engineer. Skilled in incident response, threat analysis, and preventive security measures to ensure the confidentiality, integrity, and availability of assets. Eager to apply analytical skills and technical knowledge to real-world security challenges in a dynamic team environment.
@@ -61,6 +61,3 @@ I am a highly motivated and detail-oriented cybersecurity engineer. Skilled in i
 - 📧 **Email**: ahm.mashhour@gmail.com
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities.
-
-
-
