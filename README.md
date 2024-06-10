@@ -1,16 +1,66 @@
-## Hi there 👋
+# Welcome to My GitHub Profile
 
-<!--
-**AhmMashhour/AhmMashhour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ahmed Mashhour - Cybersecurity Engineer
 
-Here are some ideas to get you started:
+## About Me
+I am a highly motivated and detail-oriented cybersecurity engineer. Skilled in incident response, threat analysis, and preventive security measures to ensure the confidentiality, integrity, and availability of assets. Eager to apply analytical skills and technical knowledge to real-world security challenges in a dynamic team environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Skills and Tools
+- *Security Information and Event Management (SIEM)*: Proficient in using Splunk Enterprise and Google Chronicle for monitoring and analyzing security events.
+- *Endpoint Detection and Response (EDR)*: Skilled in deploying and managing EDR solutions to detect and respond to threats.
+- *Network Security*: Expertise in using NMAP for network discovery and security auditing.
+- *Penetration Testing and Ethical Hacking*: Advanced user of Kali Linux for security testing and vulnerability assessments.
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=4ab197" alt="Linux">
+  <img src="https://img.shields.io/badge/Security-Wireshark-informational?style=flat-square&logo=wireshark&logoColor=white&color=4ab197" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Security-Nmap-informational?style=flat-square&logo=nmap&logoColor=white&color=4ab197" alt="Nmap">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=4ab197" alt="Python">
+  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=4ab197" alt="Docker">
+  </p>
+
+## Projects
+### [SIEM Implementation with Splunk Enterprise](https://github.com/yourusername/siem-splunk)
+- *Description*: Implementation of a comprehensive SIEM solution using Splunk Enterprise, including data ingestion, correlation searches, and custom dashboards.
+- *Technologies*: Splunk Enterprise, Python, Regular Expressions
+- *Highlights*:
+  - Configured data inputs from various sources including network devices, servers, and applications.
+  - Developed correlation searches to detect potential security incidents.
+  - Created custom dashboards for real-time monitoring and reporting.
+
+### [Endpoint Detection and Response with Google Chronicle](https://github.com/yourusername/edr-google-chronicle)
+- *Description*: Deployment and management of EDR solutions using Google Chronicle to enhance threat detection and response capabilities.
+- *Technologies*: Google Chronicle, Python, APIs
+- *Highlights*:
+  - Integrated various endpoint data sources into Google Chronicle.
+  - Automated threat detection workflows using Python scripts.
+  - Developed detailed incident response playbooks.
+
+### [Network Security Auditing with NMAP](https://github.com/yourusername/network-security-nmap)
+- *Description*: Comprehensive network security auditing using NMAP to identify vulnerabilities and secure network infrastructure.
+- *Technologies*: NMAP, Bash scripting
+- *Highlights*:
+  - Performed network scanning and vulnerability assessments.
+  - Developed custom NMAP scripts to automate common security tasks.
+  - Provided detailed reports with remediation recommendations.
+
+### [Penetration Testing with Kali Linux](https://github.com/yourusername/pentest-kali-linux)
+- *Description*: Advanced penetration testing and ethical hacking using Kali Linux to identify and mitigate security risks.
+- *Technologies*: Kali Linux, Metasploit, Burp Suite
+- *Highlights*:
+  - Conducted penetration tests on web applications, networks, and systems.
+  - Identified critical vulnerabilities and provided actionable remediation steps.
+  - Created training materials and workshops on penetration testing techniques.
+
+### 🎓 Certifications
+- *Google Certificate in Cybersecurity*
+- *Certified Information Systems Security Professional (CISSP)*
+- *Certified Ethical Hacker (CEH)*
+
+## Contact
+- 🔗 **LinkedIn**: www.linkedin.com/in/ahmed-mashhour-b074ba178
+- 📧 **Email**: ahm.mashhour@gmail.com
+
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities.
+
+
+
