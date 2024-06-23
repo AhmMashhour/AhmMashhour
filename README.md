@@ -1,6 +1,55 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Mashhour;+Communication+Engineer;+CyberSecurity+Engineer;" />
-</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f9f9f9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .typing-svg {
+            text-align: center;
+            color: #333;
+        }
+        .typing-svg h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            color: #28a745; /* لون أخضر داكن */
+        }
+        .typing-svg h2 {
+            font-size: 1.8rem;
+            margin-bottom: 5px;
+            color: #555; /* لون رمادي غامق */
+        }
+        .typing-svg p {
+            font-size: 1.2rem;
+            color: #777; /* لون رمادي أخف */
+        }
+        .typing-svg img {
+            width: 100%;
+            max-width: 500px;
+            height: auto;
+            vertical-align: middle;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="typing-svg">
+        <h1>Hi There! 👋</h1>
+        <h2>I'm Ahmed Mashhour</h2>
+        <p>Communication Engineer | CyberSecurity Engineer</p>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Mashhour;+Communication+Engineer;+CyberSecurity+Engineer;" alt="Typing SVG">
+    </div>
+</body>
+</html>
 
 ## About Me
 I am a highly motivated and detail-oriented cybersecurity engineer. Skilled in incident response, threat analysis, and preventive security measures to ensure the confidentiality, integrity, and availability of assets. Eager to apply analytical skills and technical knowledge to real-world security challenges in a dynamic team environment.
