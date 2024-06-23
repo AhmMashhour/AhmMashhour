@@ -1,46 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f9f9f9;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-        .typing-svg {
-            text-align: center;
-            color: #333;
-        }
-        .typing-svg h1 {
-            font-size: 2.5rem;
-            margin-bottom: 10px;
-            color: #28a745; /* لون أخضر داكن */
-        }
-        .typing-svg h2 {
-            font-size: 1.8rem;
-            margin-bottom: 5px;
-            color: #555; /* لون رمادي غامق */
-        }
-        .typing-svg p {
-            font-size: 1.2rem;
-            color: #777; /* لون رمادي أخف */
-        }
-        .typing-svg img {
-            width: 100%;
-            max-width: 500px;
-            height: auto;
-            vertical-align: middle;
-            margin-top: 20px;
-        }
-    </style>
-</head>
+   </head>
 <body>
     <div class="typing-svg">
         <h1>Hi There! 👋</h1>
