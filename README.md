@@ -41,7 +41,7 @@ I am a highly motivated and detail-oriented cybersecurity engineer. Skilled in i
   - Automated threat detection workflows using Python scripts.
   - Developed detailed incident response playbooks.
 
-### [talking-gloves-for-the-deaf-and-dumb](https://github.com/yourusername/network-security-nmap)
+### [talking-gloves-for-the-deaf-and-dumb](https://github.com/AhmMashhour/talking-gloves-for-the-deaf-and-dumb.git)
 - *Description*: Comprehensive network security auditing using NMAP to identify vulnerabilities and secure network infrastructure.
 - *Technologies*: NMAP, Bash scripting
 - *Highlights*:
