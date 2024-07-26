@@ -42,12 +42,12 @@ I am a highly motivated and detail-oriented cybersecurity engineer. Skilled in i
   - Developed detailed incident response playbooks.
 
 ### [talking-gloves-for-the-deaf-and-dumb](https://github.com/AhmMashhour/talking-gloves-for-the-deaf-and-dumb.git)
-- *Description*: Comprehensive network security auditing using NMAP to identify vulnerabilities and secure network infrastructure.
-- *Technologies*: NMAP, Bash scripting
+- *Description*: Development of a glove-based gesture recognition system using flex sensors and an Arduino microcontroller to capture and translate hand gestures into corresponding characters.
+- *Technologies*: Arduino, Flex Sensors, Serial Communication
 - *Highlights*:
-  - Performed network scanning and vulnerability assessments.
-  - Developed custom NMAP scripts to automate common security tasks.
-  - Provided detailed reports with remediation recommendations.
+  - Calibrated sensors for adaptability and accuracy.
+  - Mapped sensor values to angles for precise gesture recognition.
+  - Recognized specific gestures to translate into different characters.
 
 ### [Penetration Testing with Kali Linux](https://github.com/yourusername/pentest-kali-linux)
 - *Description*: Advanced penetration testing and ethical hacking using Kali Linux to identify and mitigate security risks.
