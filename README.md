@@ -59,8 +59,7 @@ I am a highly motivated and detail-oriented cybersecurity engineer. Skilled in i
 
 ### 🎓 Certifications
 - *Google Certificate in Cybersecurity*
-- *Certified Information Systems Security Professional (CISSP)*
-- *Certified Ethical Hacker (CEH)*
+
 
 ## Contact
 - 🔗 **LinkedIn**: www.linkedin.com/in/ahmed-mashhour-b074ba178
