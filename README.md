@@ -8,23 +8,34 @@
 </body>
 </html>
 
-## About Me
-I am a highly motivated and detail-oriented cybersecurity engineer. Skilled in incident response, threat analysis, and preventive security measures to ensure the confidentiality, integrity, and availability of assets. Eager to apply analytical skills and technical knowledge to real-world security challenges in a dynamic team environment.
+## 👨‍💻 Professional Summary
 
-### 🧰 Skills and Tools
+I am a Cybersecurity Engineer with expertise in security operations, SIEM solutions (Splunk, Chronicle), EDR management, network analysis (Wireshark, tcpdump, Nmap), and penetration testing with Kali Linux.
 
-As a cybersecurity engineer, I leverage a comprehensive suite of tools and technologies across multiple domains to enhance security posture, drive threat detection, and optimize incident response processes:
+Proficient in securing Linux (Kali, Ubuntu, CentOS, Red Hat) and Windows Server environments, and skilled in automating security tasks using Bash, Python, and SQL.
 
-- **Security Information and Event Management (SIEM):** Advanced expertise in Splunk Enterprise and Google Chronicle for large-scale log ingestion, event correlation, and real-time threat monitoring.
-- **Endpoint Detection and Response (EDR):** Proficient in implementing and managing EDR solutions to rapidly detect, investigate, and neutralize endpoint threats.
-- **Network Security and Traffic Analysis:** Skilled in using Wireshark, tcpdump, and Nmap for deep network inspection, packet analysis, and vulnerability assessments.
-- **Malware Analysis and Threat Intelligence:** Practical experience with VirusTotal and Cuckoo Sandbox for malware analysis, automated sandboxing, and threat intelligence enrichment.
-- **Operating Systems and Administration:** Strong hands-on skills in managing and securing environments based on Kali Linux, Ubuntu, CentOS, Red Hat, and Windows Server.
-- **Scripting and Automation:** Adept at developing automation scripts using Bash, Python, and SQL to streamline security operations, data parsing, and system monitoring tasks.
-- **Data Formats and Parsing:** Familiar with JSON and YAML for configuration management, log parsing, and SIEM integration.
-- **Identity and Access Management (IAM):** Solid understanding of Active Directory fundamentals, focusing on securing user authentication, authorization, and privileged access management.
+I leverage threat intelligence tools like VirusTotal and Cuckoo Sandbox to enhance detection capabilities, with a strong commitment to building resilient and secure digital infrastructures.
 
-I continuously integrate these tools into real-world cybersecurity projects, ensuring effective detection, analysis, and mitigation of evolving threats.
+
+## 🧰 Skills and Tools
+
+I have practical experience across key cybersecurity domains:
+
+- 🎯 <span style="color:#00B140;"><b>Splunk Enterprise</b></span> and <span style="color:#4285F4;"><b>Google Chronicle</b></span> for advanced SIEM deployment and threat monitoring.
+
+- 🛡️ Endpoint protection through EDR solutions and network traffic analysis using <span style="color:#005F91;"><b>Wireshark</b></span>, <span style="color:#00979D;"><b>tcpdump</b></span>, and <span style="color:#214478;"><b>Nmap</b></span>.
+
+- 🔬 Malware analysis and threat enrichment with <span style="color:#00A4EF;"><b>VirusTotal</b></span> and <span style="color:#FF6600;"><b>Cuckoo Sandbox</b></span>.
+
+- 🖥️ Operating systems administration across <span style="color:#FCC624;"><b>Kali Linux</b></span>, <span style="color:#E95420;"><b>Ubuntu</b></span>, <span style="color:#262577;"><b>CentOS</b></span>, <span style="color:#EE0000;"><b>Red Hat</b></span>, and <span style="color:#0078D6;"><b>Windows Server</b></span>.
+
+- 💻 Automation scripting with <span style="color:#89E051;"><b>Bash</b></span>, <span style="color:#3776AB;"><b>Python</b></span>, and <span style="color:#4479A1;"><b>SQL</b></span>.
+
+- 📄 Data parsing using <span style="color:#000000;"><b>JSON</b></span> and <span style="color:#CB171E;"><b>YAML</b></span> formats.
+
+- 👥 Identity and access management fundamentals with <span style="color:#0078D4;"><b>Active Directory</b></span>.
+
+> 🚀 *Committed to delivering resilient and intelligent cybersecurity solutions.*
 
 
 <p align="center">
