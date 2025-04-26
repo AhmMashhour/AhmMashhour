@@ -128,9 +128,10 @@ Passionate about solving real-world cybersecurity challenges, continuously learn
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmashhour&layout=compact&theme=material-palenight" alt="Ahmed Mashhour Top Languages"/>
 </p>
 
-## 🐍 Contribution Snake
+## 🐍 My GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://ahmmashhour.github.io/AhmMashhour/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
 </p>
+
 
