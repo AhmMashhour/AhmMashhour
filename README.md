@@ -16,38 +16,18 @@ I am a highly motivated and detail-oriented cybersecurity engineer. Skilled in i
 - *Endpoint Detection and Response (EDR)*: Skilled in deploying and managing EDR solutions to detect and respond to threats.
 - *Network Security*: Expertise in using NMAP for network discovery and security auditing.
 - *Penetration Testing and Ethical Hacking*: Advanced user of Kali Linux for security testing and vulnerability assessments.
+
 <p align="center">
-  <!-- SIEM Tools -->
-  <img src="https://img.shields.io/badge/SIEM-Splunk-informational?style=flat-square&logo=splunk&logoColor=white&color=4ab197" alt="Splunk">
-  <img src="https://img.shields.io/badge/SIEM-Google_Chronicle-informational?style=flat-square&logo=google&logoColor=white&color=4ab197" alt="Google Chronicle">
-  
-  <!-- Network and Security Tools -->
-  <img src="https://img.shields.io/badge/Security-Wireshark-informational?style=flat-square&logo=wireshark&logoColor=white&color=4ab197" alt="Wireshark">
-  <img src="https://img.shields.io/badge/Security-tcpdump-informational?style=flat-square&logo=wireshark&logoColor=white&color=4ab197" alt="tcpdump">
-  <img src="https://img.shields.io/badge/Security-Nmap-informational?style=flat-square&logo=nmap&logoColor=white&color=4ab197" alt="Nmap">
-
-  <!-- Malware Analysis Tools -->
-  <img src="https://img.shields.io/badge/Security-VirusTotal-informational?style=flat-square&logo=virustotal&logoColor=white&color=4ab197" alt="VirusTotal">
-  <img src="https://img.shields.io/badge/Security-Cuckoo_Sandbox-informational?style=flat-square&logo=sandbox&logoColor=white&color=4ab197" alt="Cuckoo Sandbox">
-
-  <!-- Programming and Scripting -->
-  <img src="https://img.shields.io/badge/Code-Bash-informational?style=flat-square&logo=gnubash&logoColor=white&color=4ab197" alt="Bash">
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=4ab197" alt="Python">
-  <img src="https://img.shields.io/badge/Database-SQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4ab197" alt="SQL">
-
-  <!-- Operating Systems -->
-  <img src="https://img.shields.io/badge/OS-Kali_Linux-informational?style=flat-square&logo=kalilinux&logoColor=white&color=4ab197" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat-square&logo=ubuntu&logoColor=white&color=4ab197" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/OS-Windows_Server-informational?style=flat-square&logo=windows&logoColor=white&color=4ab197" alt="Windows Server">
-  <img src="https://img.shields.io/badge/OS-CentOS-informational?style=flat-square&logo=centos&logoColor=white&color=4ab197" alt="CentOS">
-  <img src="https://img.shields.io/badge/OS-Red_Hat-informational?style=flat-square&logo=redhat&logoColor=white&color=4ab197" alt="RedHat">
-
-  <!-- Data Formats -->
-  <img src="https://img.shields.io/badge/Format-JSON-informational?style=flat-square&logo=json&logoColor=white&color=4ab197" alt="JSON">
-  <img src="https://img.shields.io/badge/Format-YAML-informational?style=flat-square&logo=yaml&logoColor=white&color=4ab197" alt="YAML">
-
-  <!-- Identity and Access -->
-  <img src="https://img.shields.io/badge/Security-Active_Directory-informational?style=flat-square&logo=microsoft&logoColor=white&color=4ab197" alt="Active Directory">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" title="Splunk" alt="Splunk" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" title="Google Chronicle" alt="Google Chronicle" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" title="Wireshark" alt="Wireshark" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Kali Linux" alt="Kali Linux" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows Server" alt="Windows Server" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="50" height="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" title="RedHat" alt="RedHat" width="50" height="50"/></a>
 </p>
 
 
