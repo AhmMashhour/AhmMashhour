@@ -21,21 +21,23 @@ Passionate about solving real-world cybersecurity challenges, continuously learn
 
 ## 🧰 Skills and Tools
 
-I have practical experience across key cybersecurity domains:
+### 🛡️ Security and Monitoring
+- <span style="color:#00B140;"><b>Splunk Enterprise</b></span>, <span style="color:#4285F4;"><b>Google Chronicle</b></span>, <span style="color:#005F91;"><b>Wireshark</b></span>, <span style="color:#00979D;"><b>tcpdump</b></span>, <span style="color:#214478;"><b>Nmap</b></span>
 
-- 🎯 <span style="color:#00B140;"><b>Splunk Enterprise</b></span> and <span style="color:#4285F4;"><b>Google Chronicle</b></span> for advanced SIEM deployment and threat monitoring.
+### 🔬 Malware Analysis & Threat Intelligence
+- <span style="color:#00A4EF;"><b>VirusTotal</b></span>, <span style="color:#FF6600;"><b>Cuckoo Sandbox</b></span>
 
-- 🛡️ Endpoint protection through EDR solutions and network traffic analysis using <span style="color:#005F91;"><b>Wireshark</b></span>, <span style="color:#00979D;"><b>tcpdump</b></span>, and <span style="color:#214478;"><b>Nmap</b></span>.
+### 🖥️ Operating Systems
+- <span style="color:#FCC624;"><b>Kali Linux</b></span>, <span style="color:#E95420;"><b>Ubuntu</b></span>, <span style="color:#262577;"><b>CentOS</b></span>, <span style="color:#EE0000;"><b>Red Hat</b></span>, <span style="color:#0078D6;"><b>Windows Server</b></span>
 
-- 🔬 Malware analysis and threat enrichment with <span style="color:#00A4EF;"><b>VirusTotal</b></span> and <span style="color:#FF6600;"><b>Cuckoo Sandbox</b></span>.
+### 💻 Scripting and Automation
+- <span style="color:#89E051;"><b>Bash</b></span>, <span style="color:#3776AB;"><b>Python</b></span>, <span style="color:#4479A1;"><b>SQL</b></span>
 
-- 🖥️ Operating systems administration across <span style="color:#FCC624;"><b>Kali Linux</b></span>, <span style="color:#E95420;"><b>Ubuntu</b></span>, <span style="color:#262577;"><b>CentOS</b></span>, <span style="color:#EE0000;"><b>Red Hat</b></span>, and <span style="color:#0078D6;"><b>Windows Server</b></span>.
+### 📄 Data Formats
+- <span style="color:#000000;"><b>JSON</b></span>, <span style="color:#CB171E;"><b>YAML</b></span>
 
-- 💻 Automation scripting with <span style="color:#89E051;"><b>Bash</b></span>, <span style="color:#3776AB;"><b>Python</b></span>, and <span style="color:#4479A1;"><b>SQL</b></span>.
-
-- 📄 Data parsing using <span style="color:#000000;"><b>JSON</b></span> and <span style="color:#CB171E;"><b>YAML</b></span> formats.
-
-- 👥 Identity and access management fundamentals with <span style="color:#0078D4;"><b>Active Directory</b></span>.
+### 👥 Identity and Access Management
+- <span style="color:#0078D4;"><b>Active Directory</b></span>
 
 > 🚀 *Committed to delivering resilient and intelligent cybersecurity solutions.*
 
@@ -101,13 +103,29 @@ I have practical experience across key cybersecurity domains:
 - 🎯 [Leading People and Teams Specialization (University of Michigan)](https://coursera.org/share/de111c82b3afd2231c7f0fd14c60dfc4)
 
 
+---
 
-## Contact
-- 🔗 **LinkedIn**: www.linkedin.com/in/ahmed-mashhour-b074ba178
-- 📧 **Email**: ahm.mashhour@gmail.com
+## 📬 Contact Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmmashhour&show_icons=true&locale=en&layout=compact" alt="ahmmashhour" /></p>
+<p align="center">
+  <a href="https://linkedin.com/in/ahmed-mashhour-b074ba178" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ahm.mashhour@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmmashhour&show_icons=true&locale=en" alt="ahmmashhour" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmmashhour&" alt="ahmmashhour" /></p>
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmmashhour&show_icons=true&theme=material-palenight&locale=en" alt="Ahmed Mashhour GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmmashhour&theme=material-palenight" alt="Ahmed Mashhour GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmashhour&layout=compact&theme=material-palenight" alt="Ahmed Mashhour Top Languages"/>
+</p>
+
+---
