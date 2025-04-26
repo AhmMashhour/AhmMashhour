@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "0 0 * * *" # Every day at midnight
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
