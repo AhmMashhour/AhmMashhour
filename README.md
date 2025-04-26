@@ -89,8 +89,15 @@ I have practical experience across key cybersecurity domains:
 </p>
 
 
-### 🎓 Certifications
-- *Google Certificate in Cybersecurity*
+## 🎓 Certifications
+
+- 🛡️ [Google Cybersecurity Specialization (Google)](https://coursera.org/share/bfc7c66d4fbe1f836f6c10b11e918096)
+- 🛡️ [Cyber Security – Technology and Governance Specialization (University of London & Royal Holloway)](https://coursera.org/share/dfc48eabc7b3f06cd894d155aa2bbbf9)
+- 🛡️ [Splunk Search Expert Specialization (Splunk Inc.)](https://coursera.org/share/81c6ff7593abaf21fe17eede37dc1734)
+- 🛡️ [Certified Ethical Hacking (v12) Specialization (LearnKartS)](https://coursera.org/share/3123da35b55d02cd14ba9ca332e75ba6)
+- 🛡️ [Security Operations Center (SOC)](https://coursera.org/share/b5f14ae9e84e7d1105a0685783d798e0)
+- 🎯 [Leading People and Teams Specialization (University of Michigan)](https://coursera.org/share/de111c82b3afd2231c7f0fd14c60dfc4)
+
 
 
 ## Contact
