@@ -1,31 +1,32 @@
 name: Generate Advanced Snake Contribution
 
 on:
-  schedule:
-    - cron: "0 0 * * *"  # Run daily
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"  # يحدث مرة كل يوم
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Advanced Snake
-        uses: Platane/snk@v3
+      - name: Generate GitHub Snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: AhmMashhour
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
-          snake_color: "#39FF14,#00F0FF"  # Green to Neon Blue
-          background_color: "#000000"     # Black background for contrast
-          color_snake_head: "#00FF00"     # Bright green head
-          animation_duration: 3s          # Smooth movement
+            dist/github-contribution-grid-snake-dark.svg
+          snake_color: "#00FF00"        # لون الثعبان (أخضر فاقع)
+          background_color: "#0d1117"   # خلفية داكنة
+          color_snake_head: "#FF1493"   # لون رأس الثعبان (وردي قوي)
+          animation_duration: 5000      # مدة حركة الثعبان بالمللي ثانية (أبطأ قليلاً)
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
