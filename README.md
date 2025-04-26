@@ -63,9 +63,19 @@ I continuously integrate these tools into real-world cybersecurity projects, ens
 
 
 
-## 🚀 Projects
-Check out my latest cybersecurity projects and research on my GitHub repositories!
-[🔗 View my repositories here](https://github.com/ahmmashhour?tab=repositories)
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/ahmmashhour?tab=repositories" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4AB197&center=true&vCenter=true&width=700&lines=Explore+My+Latest+Cybersecurity+Projects;Hands-on+Labs%2C+Tools%2C+and+Research;Click+Here+to+Visit+My+Repositories!" alt="Typing SVG">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ahmmashhour?tab=repositories" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-View%20My%20Repositories-4AB197?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories">
+  </a>
+</p>
 
 
 ### 🎓 Certifications
