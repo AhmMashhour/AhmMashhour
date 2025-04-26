@@ -128,8 +128,3 @@ Passionate about solving real-world cybersecurity challenges, continuously learn
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmashhour&layout=compact&theme=material-palenight" alt="Ahmed Mashhour Top Languages"/>
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/AhmMashhour/AhmMashhour/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
