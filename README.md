@@ -10,11 +10,13 @@
 
 ## 👨‍💻 Professional Summary
 
-I am a Cybersecurity Engineer with expertise in security operations, SIEM solutions (Splunk, Chronicle), EDR management, network analysis (Wireshark, tcpdump, Nmap), and penetration testing with Kali Linux.
+Dynamic and highly skilled Cybersecurity Engineer with a strong foundation in security operations, threat detection, and incident response.  
+Experienced in managing large-scale SIEM environments, conducting network forensics, and automating security workflows to enhance organizational resilience.
 
-Proficient in securing Linux (Kali, Ubuntu, CentOS, Red Hat) and Windows Server environments, and skilled in automating security tasks using Bash, Python, and SQL.
+Certified across multiple global programs, combining technical expertise with leadership abilities to drive proactive cyber defense strategies.  
+Proficient at bridging technical excellence with business impact, ensuring security initiatives align with organizational goals.
 
-I leverage threat intelligence tools like VirusTotal and Cuckoo Sandbox to enhance detection capabilities, with a strong commitment to building resilient and secure digital infrastructures.
+Passionate about solving real-world cybersecurity challenges, continuously learning, and leading teams towards building secure, scalable, and future-ready infrastructures.
 
 
 ## 🧰 Skills and Tools
