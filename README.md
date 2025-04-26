@@ -63,38 +63,10 @@ I continuously integrate these tools into real-world cybersecurity projects, ens
 
 
 
-## Projects
-### [SIEM Implementation with Splunk Enterprise](https://github.com/yourusername/siem-splunk)
-- *Description*: Implementation of a comprehensive SIEM solution using Splunk Enterprise, including data ingestion, correlation searches, and custom dashboards.
-- *Technologies*: Splunk Enterprise, Python, Regular Expressions
-- *Highlights*:
-  - Configured data inputs from various sources including network devices, servers, and applications.
-  - Developed correlation searches to detect potential security incidents.
-  - Created custom dashboards for real-time monitoring and reporting.
+## 🚀 Projects
+Check out my latest cybersecurity projects and research on my GitHub repositories!
+[🔗 View my repositories here](https://github.com/ahmmashhour?tab=repositories)
 
-### [Endpoint Detection and Response with Google Chronicle](https://github.com/yourusername/edr-google-chronicle)
-- *Description*: Deployment and management of EDR solutions using Google Chronicle to enhance threat detection and response capabilities.
-- *Technologies*: Google Chronicle, Python, APIs
-- *Highlights*:
-  - Integrated various endpoint data sources into Google Chronicle.
-  - Automated threat detection workflows using Python scripts.
-  - Developed detailed incident response playbooks.
-
-### [talking-gloves-for-the-deaf-and-dumb](https://github.com/AhmMashhour/talking-gloves-for-the-deaf-and-dumb.git)
-- *Description*: Development of a glove-based gesture recognition system using flex sensors and an Arduino microcontroller to capture and translate hand gestures into corresponding characters.
-- *Technologies*: Arduino, Flex Sensors, Serial Communication
-- *Highlights*:
-  - Calibrated sensors for adaptability and accuracy.
-  - Mapped sensor values to angles for precise gesture recognition.
-  - Recognized specific gestures to translate into different characters.
-
-### [Penetration Testing with Kali Linux](https://github.com/yourusername/pentest-kali-linux)
-- *Description*: Advanced penetration testing and ethical hacking using Kali Linux to identify and mitigate security risks.
-- *Technologies*: Kali Linux, Metasploit, Burp Suite
-- *Highlights*:
-  - Conducted penetration tests on web applications, networks, and systems.
-  - Identified critical vulnerabilities and provided actionable remediation steps.
-  - Created training materials and workshops on penetration testing techniques.
 
 ### 🎓 Certifications
 - *Google Certificate in Cybersecurity*
