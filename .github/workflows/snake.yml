@@ -3,7 +3,7 @@ name: Generate Advanced Snake Contribution
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"  # يحدث مرة كل يوم
+    - cron: "0 0 * * *"  # Every day
 
 jobs:
   generate:
@@ -20,10 +20,11 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
-          snake_color: "#00FF00"        # لون الثعبان (أخضر فاقع)
-          background_color: "#0d1117"   # خلفية داكنة
-          color_snake_head: "#FF1493"   # لون رأس الثعبان (وردي قوي)
-          animation_duration: 5000      # مدة حركة الثعبان بالمللي ثانية (أبطأ قليلاً)
+          args: |
+            --snake_color "#00FF00"
+            --background_color "#0d1117"
+            --color_snake_head "#FF1493"
+            --animation_duration 5000
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
