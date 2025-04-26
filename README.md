@@ -17,12 +17,39 @@ I am a highly motivated and detail-oriented cybersecurity engineer. Skilled in i
 - *Network Security*: Expertise in using NMAP for network discovery and security auditing.
 - *Penetration Testing and Ethical Hacking*: Advanced user of Kali Linux for security testing and vulnerability assessments.
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=4ab197" alt="Linux">
+  <!-- SIEM Tools -->
+  <img src="https://img.shields.io/badge/SIEM-Splunk-informational?style=flat-square&logo=splunk&logoColor=white&color=4ab197" alt="Splunk">
+  <img src="https://img.shields.io/badge/SIEM-Google_Chronicle-informational?style=flat-square&logo=google&logoColor=white&color=4ab197" alt="Google Chronicle">
+  
+  <!-- Network and Security Tools -->
   <img src="https://img.shields.io/badge/Security-Wireshark-informational?style=flat-square&logo=wireshark&logoColor=white&color=4ab197" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Security-tcpdump-informational?style=flat-square&logo=wireshark&logoColor=white&color=4ab197" alt="tcpdump">
   <img src="https://img.shields.io/badge/Security-Nmap-informational?style=flat-square&logo=nmap&logoColor=white&color=4ab197" alt="Nmap">
+
+  <!-- Malware Analysis Tools -->
+  <img src="https://img.shields.io/badge/Security-VirusTotal-informational?style=flat-square&logo=virustotal&logoColor=white&color=4ab197" alt="VirusTotal">
+  <img src="https://img.shields.io/badge/Security-Cuckoo_Sandbox-informational?style=flat-square&logo=sandbox&logoColor=white&color=4ab197" alt="Cuckoo Sandbox">
+
+  <!-- Programming and Scripting -->
+  <img src="https://img.shields.io/badge/Code-Bash-informational?style=flat-square&logo=gnubash&logoColor=white&color=4ab197" alt="Bash">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=4ab197" alt="Python">
-  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=4ab197" alt="Docker">
-  </p>
+  <img src="https://img.shields.io/badge/Database-SQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4ab197" alt="SQL">
+
+  <!-- Operating Systems -->
+  <img src="https://img.shields.io/badge/OS-Kali_Linux-informational?style=flat-square&logo=kalilinux&logoColor=white&color=4ab197" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat-square&logo=ubuntu&logoColor=white&color=4ab197" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/OS-Windows_Server-informational?style=flat-square&logo=windows&logoColor=white&color=4ab197" alt="Windows Server">
+  <img src="https://img.shields.io/badge/OS-CentOS-informational?style=flat-square&logo=centos&logoColor=white&color=4ab197" alt="CentOS">
+  <img src="https://img.shields.io/badge/OS-Red_Hat-informational?style=flat-square&logo=redhat&logoColor=white&color=4ab197" alt="RedHat">
+
+  <!-- Data Formats -->
+  <img src="https://img.shields.io/badge/Format-JSON-informational?style=flat-square&logo=json&logoColor=white&color=4ab197" alt="JSON">
+  <img src="https://img.shields.io/badge/Format-YAML-informational?style=flat-square&logo=yaml&logoColor=white&color=4ab197" alt="YAML">
+
+  <!-- Identity and Access -->
+  <img src="https://img.shields.io/badge/Security-Active_Directory-informational?style=flat-square&logo=microsoft&logoColor=white&color=4ab197" alt="Active Directory">
+</p>
+
 
 ## Projects
 ### [SIEM Implementation with Splunk Enterprise](https://github.com/yourusername/siem-splunk)
