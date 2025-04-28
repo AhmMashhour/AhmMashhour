@@ -16,7 +16,6 @@ Experienced in managing large-scale SIEM environments, conducting network forens
 Certified across multiple global programs, combining technical expertise with leadership abilities to drive proactive cyber defense strategies.  
 Proficient at bridging technical excellence with business impact, ensuring security initiatives align with organizational goals.
 
-Passionate about solving real-world cybersecurity challenges, continuously learning, and leading teams towards building secure, scalable, and future-ready infrastructures.
 
 
 ## 🧰 Skills and Tools
