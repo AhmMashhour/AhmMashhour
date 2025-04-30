@@ -130,13 +130,14 @@ Proficient at bridging technical excellence with business impact, ensuring secur
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmmashhour&theme=material-palenight" alt="Ahmed Mashhour GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ahmmashhour&theme=material-palenight" alt="Ahmed Mashhour GitHub Streak" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmashhour&layout=compact&theme=material-palenight" alt="Ahmed Mashhour Top Languages"/>
 </p>
+
+
 ## 🐍 My GitHub Contribution Snake
 
 <p align="center">
