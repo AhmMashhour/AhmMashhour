@@ -121,22 +121,39 @@ Proficient at bridging technical excellence with business impact, ensuring secur
 </p>
 
 
+
+## 📈 My GitHub Stats & Achievements
+
+<p align="center">
+  <!-- Dark Theme Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmmashhour&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Ahmed Mashhour GitHub Stats" height="200"/>
+  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmmashhour&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Ahmed Mashhour GitHub Streak"/>
+</p>
+
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmashhour&layout=compact&theme=gruvbox&hide_border=true" alt="Ahmed Mashhour Top Languages" height="200"/>
+</p>
+
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmmashhour&theme=monokai&column=7&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+
+## 🚀 Contribution Activity (Dynamic Chart)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmmashhour&theme=dracula&hide_border=true" alt="Ahmed Mashhour Contribution Graph"/>
+</p>
+
+
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmmashhour&show_icons=true&theme=material-palenight&locale=en" alt="Ahmed Mashhour GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ahmmashhour&theme=material-palenight" alt="Ahmed Mashhour GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmashhour&layout=compact&theme=material-palenight" alt="Ahmed Mashhour Top Languages"/>
-</p>
-
 
 ## 🐍 My GitHub Contribution Snake
 
